@@ -1,19 +1,36 @@
 [
   {
+    "path": "posts/2023-06-25-i-love-blogging/",
+    "title": "Learning to plog",
+    "description": "Just testing out how to write a blog post.",
+    "author": [
+      {
+        "name": "Nikki Harvey",
+        "url": {}
+      }
+    ],
+    "date": "2023-06-25",
+    "categories": [],
+    "contents": "\r\nI am currently trying to learn how to create blog posts with RMarkdown and git.\r\n\r\n\r\nplot(iris)\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2023-06-25-i-love-blogging/i-love-blogging_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2023-06-25T17:54:20+10:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My Blog",
     "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Nikki Harvey",
+        "url": {}
       }
     ],
     "date": "2023-06-25",
     "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
+    "contents": "\r\nI am learning!\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2023-06-25T16:44:35+10:00",
+    "last_modified": "2023-06-25T17:57:37+10:00",
     "input_file": {}
   }
 ]
